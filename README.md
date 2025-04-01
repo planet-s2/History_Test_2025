@@ -11,7 +11,7 @@ Eine interaktive Webseite mit Lernkarten zum Thema Industrielle Revolution. Die 
 
 ## Verwendung
 
-Öffnen Sie einfach die `index.html` Datei in einem Webbrowser oder besuchen Sie die [GitHub Pages-Version](https://BENUTZERNAME.github.io/Eleni_History_2025) dieser Anwendung.
+Öffnen Sie einfach die `index.html` Datei in einem Webbrowser oder besuchen Sie die [GitHub Pages-Version](https://planet-s2.github.io/History_Test_2025) dieser Anwendung.
 
 ## Technologien
 

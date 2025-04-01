@@ -12,7 +12,7 @@ This guide will walk you through the steps to deploy your flashcard website to G
 
 1. Go to [github.com](https://github.com) and sign in to your account
 2. Click on the '+' icon in the top right corner and select 'New repository'
-3. Name your repository `Eleni_History_2025` (or any name you prefer)
+3. Name your repository `History_Test_2025` (or any name you prefer)
 4. Add a description (optional)
 5. Keep the repository public if you want anyone to access your flashcards
 6. Do NOT initialize the repository with a README, .gitignore, or license as we've already initialized the repository locally
@@ -25,7 +25,7 @@ After creating the repository, you'll see instructions on GitHub. Follow these c
 ```bash
 # You've already initialized the repository and committed your files
 # Now connect your local repository to the GitHub repository
-git remote add origin https://github.com/YOUR_USERNAME/Eleni_History_2025.git
+git remote add origin https://github.com/planet-s2/History_Test_2025.git
 
 # Push your changes to GitHub
 git branch -M main
@@ -47,7 +47,7 @@ Replace `YOUR_USERNAME` with your actual GitHub username.
 After a few minutes, your website will be published. You can access it at:
 
 ```
-https://YOUR_USERNAME.github.io/Eleni_History_2025/
+https://planet-s2.github.io/History_Test_2025/
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
